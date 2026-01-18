@@ -8,3 +8,6 @@ Curso MLOPS1
 - tres
 - cuatro
 
+## Visual studio
+- pruebas nuevas desde visual studio, creando un nuevo branch
+
